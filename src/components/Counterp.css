@@ -1,0 +1,8 @@
+.counter-container{
+    background-color:lemonchiffon;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 1.5rem;
+    border: 2px solid black;
+}
